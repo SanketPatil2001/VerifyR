@@ -1,2 +1,2 @@
 # VerifyR
-VerifyR - A Duplication Detection Tool For Text and Image containing Articles
+VerifyR - A Plagiarism Detection Tool For Text and Image containing Articles
